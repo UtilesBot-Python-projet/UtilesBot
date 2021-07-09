@@ -16,7 +16,7 @@ from io import BytesIO
 
 # Les variable
 
-token = "ODIxNDE0ODAwNzE3MjUwNTgx.YFDYJQ.uVwvvggs2f6sk7BEvyh-hvv7CPE"
+token = "ODYzMTgzNzA1OTQ5MzM5NjU4.YOjMeA.3MpHxp72eY6NusLVyICUKTclCbo"
 intents = discord.Intents().all()
 
 bot = commands.Bot(command_prefix = préfix, intents=intents)
